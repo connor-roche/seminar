@@ -1,0 +1,2 @@
+# seminar
+to practice git
